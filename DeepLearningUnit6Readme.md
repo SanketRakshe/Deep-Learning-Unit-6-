@@ -59,3 +59,5 @@ The trained model's performance is evaluated on a held-out set of images, ensuri
 # Conclusion
 
 Image classification has gained prominence in computer vision, and CNNs have emerged as the go-to architecture for this task. Their ability to extract and learn from complex patterns in images has fueled their success in a wide range of applications, revolutionizing fields like medical diagnostics, autonomous driving, social media, and e-commerce. As CNNs continue to evolve, their impact on image classification and related domains is poised to grow even further.
+
+---
