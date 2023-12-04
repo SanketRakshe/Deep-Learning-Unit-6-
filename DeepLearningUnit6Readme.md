@@ -210,7 +210,7 @@ A deep learning-based recommender system utilizes neural networks to model compl
 
 ## Diagram
 
-```plaintext
+
 +-------------+       +------------------------+       +---------+
 | User Embed  |       | Concatenation Layer     |       | Output  |
 | ding Layer  |       |------------------------|       | Layer   |
@@ -291,13 +291,6 @@ Hybrid recommender systems combine the strengths of content-based and collaborat
 - Can be more complex to implement than content-based or collaborative filtering recommender systems alone.
 - Requires more data than either content-based or collaborative filtering recommender systems alone.
 
-## Pros and Cons Summary
-
-| Recommender System Type | Pros | Cons |
-| --- | --- | --- |
-| Content-based | Can recommend items not yet popular Can discover new interests | Does not consider other users' preferences Less effective with limited data |
-| Collaborative Filtering | Discovers new items Takes into account the preferences of many users | Less effective with limited user similarity Susceptible to cold start problems |
-| Hybrid | Leverages strengths of both types More effective than individual types | Complex implementation Requires more data |
 
 # Applications of Deep Learning-Based Recommender Systems
 
