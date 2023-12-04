@@ -210,7 +210,7 @@ A deep learning-based recommender system utilizes neural networks to model compl
 
 ## Diagram
 
-
+```
 +-------------+       +------------------------+       +---------+
 | User Embed  |       | Concatenation Layer     |       | Output  |
 | ding Layer  |       |------------------------|       | Layer   |
@@ -221,7 +221,7 @@ A deep learning-based recommender system utilizes neural networks to model compl
 | ding Layer  |                                       |         |
 +------+------|                                       +---------+
 
-
+```
 
 - **User Embedding Layer and Item Embedding Layer:** Transform user and item identifiers into dense vectors.
 - **Concatenation Layer:** Combine user and item embeddings to form a joint representation.
